@@ -1,0 +1,28 @@
+name: giedre
+favicon: null
+layout_spectrum: 0.3838973711244762
+typography_spectrum: 0.6746400974225253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8078483953140676
+  lightness: 0.6502304244786501
+  saturation: 0.7389404501300305
+  rhythmicContrast: 0.21981217712163925
+purpose: []
